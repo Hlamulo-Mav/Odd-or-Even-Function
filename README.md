@@ -22,7 +22,7 @@ To get a local copy up and running follow these simple example steps.
 - Github: [@Hlamulo-Mav](https://github.com/Hlamulo-Mav)  
 
 ## :handshake: Contributing
-Contributions, issues and feature requests are welcome! \n
+Contributions, issues and feature requests are welcome! <br />
 Feel free to check the [issues page](https://github.com/Hlamulo-Mav/Odd-or-Even-Function/issues)
 
 ## Show your support
